@@ -108,7 +108,7 @@ class ProfileCard extends StatelessWidget {
                   Container(
                     height: 200,
                     width: 200,
-                    // margin: EdgeInsets.symmetric(vertical: 50),
+                    // margin: EdgeInsets.syAmmetric(vertical: 50),
                     decoration: BoxDecoration(
                         shape: BoxShape.circle,
                         // borderRadius: BorderRadius.circular(100.0),
